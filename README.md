@@ -1,2 +1,4 @@
 # MelodyLinks-Music-Box-
 MelodyLinks: A Music Box with Doubly Linked List Implementation
+A music box called MelodyLinks, where I implemented a template-based doubly linked list data structure. This linked list supports various essential operations such as push_back, remove, getSize, at, contains, and replace. Additionally, I designed MelodyLinks to maintain a playlist of songs, implemented as a doubly linked list of Songs. The music box offers an array of functionalities, including adding songs to the playlist, removing songs, searching for specific songs, playing the next or previous song with the ability to wrap around the playlist, displaying the currently playing song, and sorting the playlist by song titles using the quick sort algorithm, selecting the initial song as the pivot point. 
+MelodyLinks provides a comprehensive music playback experience.
